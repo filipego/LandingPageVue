@@ -10,6 +10,7 @@
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
 
+
 export default {
   components:{
     'site-header': Header,
@@ -26,5 +27,5 @@ export default {
 </script>
 
 <style lang="scss">
-
+  @import './src/assets/scss/reset.scss';
 </style>
