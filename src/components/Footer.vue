@@ -1,6 +1,7 @@
 <template>
   <footer class="footer">
     <h2>{{title}}</h2>
+    
   </footer>
 </template>
 
@@ -17,5 +18,5 @@ export default {
 </script>
 
 <style lang="scss">
-  
+
 </style>
